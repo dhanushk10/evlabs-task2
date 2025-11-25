@@ -1,1 +1,6 @@
-# evlabs-task2
+- Females had a higher survival rate than males.
+- Passengers in 1st class survived more than those in 2nd and 3rd class.
+- Age distribution shows more young passengers; some outliers are present.
+- Fare is right-skewed (few high-value outliers).
+- Strong positive correlation between Fare and Passenger Class.
+- EDA revealed missing values in Age and Cabin columns.
